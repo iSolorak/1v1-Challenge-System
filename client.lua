@@ -322,6 +322,7 @@ end
     id1 = nil 
     id2 = nil
     leave = false
+    coords =nil
     TriggerServerEvent('newclearlist2',GetPlayerServerId(PlayerId()))
     --print(eneymid)
 
